@@ -1,3 +1,3 @@
 Just a dummy text file, so that there's something to edit on new versions. Otherwise GitHub gets confused as to which version is latest.
 
-v1.11.3
+v1.11.4
